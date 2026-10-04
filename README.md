@@ -21,5 +21,5 @@ program manajemen Data Mahasiswa single Linked List Python
 | Tampilkan Semua | O(n) |
 
 ## 👤 Identitas
-Nama: [Nama Kamu]
-NIM: [NIM Kamu]
+Nama: [Imelda Devirsa Lawanggomang]
+NIM: [257111075]
